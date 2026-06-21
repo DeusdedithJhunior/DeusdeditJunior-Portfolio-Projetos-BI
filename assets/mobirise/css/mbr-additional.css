@@ -746,7 +746,7 @@ a {
 }
 .cid-sFGzlAXw3z .dropdown-menu,
 .cid-sFGzlAXw3z .navbar.opened {
-  background: #353535 !important;
+  background: #000000 !important;
 }
 .cid-sFGzlAXw3z .nav-item:focus,
 .cid-sFGzlAXw3z .nav-link:focus {
@@ -781,7 +781,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-  background: #353535;
+  background: #000000;
 }
 .cid-sFGzlAXw3z .navbar.opened {
   transition: all 0.3s;
@@ -921,7 +921,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-sFGzlAXw3z .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #353535;
+  background: #000000;
 }
 .cid-sFGzlAXw3z .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1025,7 +1025,7 @@ a {
 .cid-sFGzrhlvIh {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/analise-dados-industria4.0-1000x667.jpg");
+  background-color: #000000;
 }
 .cid-sFGzrhlvIh .icons-media-container {
   display: flex;
@@ -1082,7 +1082,7 @@ a {
 .cid-tRtRHiQBr2 {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #232323;
+  background-color: #000000;
 }
 .cid-tRtRHiQBr2 .mbr-fallback-image.disabled {
   display: none;
@@ -1121,7 +1121,7 @@ a {
 .cid-tRtOmLQ7QG {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #353535;
+  background-color: #000000;
 }
 .cid-tRtOmLQ7QG img,
 .cid-tRtOmLQ7QG .item-img {
@@ -1137,7 +1137,7 @@ a {
 .cid-tRtOmLQ7QG .slide-content {
   position: relative;
   border-radius: 4px;
-  background: #000000;
+  background: #232323;
   height: 100%;
   display: flex;
   overflow: hidden;
@@ -1276,7 +1276,7 @@ a {
 .cid-tRup0P5cDB {
   padding-top: 1rem;
   padding-bottom: 6rem;
-  background-color: #353535;
+  background-color: #000000;
 }
 .cid-tRup0P5cDB img,
 .cid-tRup0P5cDB .item-img {
@@ -1292,7 +1292,7 @@ a {
 .cid-tRup0P5cDB .slide-content {
   position: relative;
   border-radius: 4px;
-  background: #000000;
+  background: #232323;
   height: 100%;
   display: flex;
   overflow: hidden;
@@ -1584,7 +1584,7 @@ a {
 .cid-sFGGxz3b6J {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #353535;
+  background-color: #000000;
 }
 .cid-sFGGxz3b6J .row {
   align-items: center;
@@ -1620,7 +1620,7 @@ a {
 .cid-tRtUp33ubg {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #232323;
+  background-color: #000000;
 }
 .cid-tRtUp33ubg .mbr-overlay {
   background-color: #ffffff;
@@ -1647,7 +1647,7 @@ a {
 .cid-tRuMEybNhr {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #232323;
+  background-color: #000000;
 }
 .cid-tRuMEybNhr .row-links {
   width: 100%;
