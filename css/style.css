@@ -170,6 +170,20 @@ p { margin: 0; }
 .project__btn:hover { color: var(--accent-soft); }
 .project__btn[disabled] { color: var(--muted); cursor: not-allowed; }
 
+/* Hover dos cards (só em telas com mouse) */
+@media (hover: hover) {
+  .project__thumb--img img { transition: transform 300ms ease-out; }
+  .project:hover .project__thumb--img img,
+  .project:focus-within .project__thumb--img img { transform: scale(1.04); }
+  .project:hover .project__btn,
+  .project:focus-within .project__btn { text-decoration: underline; text-underline-offset: 4px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .project__thumb--img img { transition: none; }
+  .project:hover .project__thumb--img img,
+  .project:focus-within .project__thumb--img img { transform: none; }
+}
+
 /* ---------- Como trabalho ---------- */
 .steps { display: flex; flex-wrap: wrap; gap: 24px; }
 .step { flex: 1 1 230px; display: flex; flex-direction: column; gap: 12px; }
