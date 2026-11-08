@@ -180,7 +180,7 @@ modal.addEventListener("click", (e) => { if (e.target === modal) closeReport(); 
    Depois de ativar o FormSubmit (veja o README), troque o e-mail abaixo
    pelo código que eles enviam, para o endereço não ficar no código do site:
    "https://formsubmit.co/ajax/SEU_CODIGO" */
-const FORM_ENDPOINT = "https://formsubmit.co/ajax/deusdedithjhunior@gmail.com";
+const FORM_ENDPOINT = "https://formsubmit.co/ajax/28ef18c73c192b7474b59398b0db882c";
 
 const form = document.getElementById("contact-form");
 const formError = document.getElementById("form-error");
