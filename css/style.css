@@ -77,7 +77,7 @@ p { margin: 0; }
 .showcase:hover { border-color: var(--accent); transform: translateY(-2px); }
 .showcase__open { font-size: 14px; font-weight: 600; color: var(--accent); }
 .showcase__hint { font-size: 12px; color: var(--muted); border: 1px dashed var(--dashed); border-radius: 999px; padding: 3px 10px; }
-.showcase img, .showcase video { width: 100%; border-radius: 10px; display: block; }
+.showcase img, .showcase video { width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; object-position: top center; border-radius: 10px; display: block; }
 .kpis { display: flex; flex-wrap: wrap; gap: 12px; }
 .kpi { flex: 1 1 120px; background: var(--bg); border-radius: 10px; padding: 12px; }
 .kpi span { font-size: 12px; color: var(--muted); }
