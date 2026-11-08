@@ -1,21 +1,19 @@
-# Deusdedit Junior Portfolio de Projetos Business Intelligence
- Page criada para divulgação de projetos de Business Intelligence (Repositório com uma Página Web de dashboards)
- 
-## Link para acessar os relatórios em tempo real:
-#### Page: https://deusdedithjhunior.github.io/DeusdeditJunior-Portfolio-Projetos/
+# Deusdedit Andrade | Portfólio de Business Intelligence
 
-## Status da Page:
-![Badge Status projeto](http://img.shields.io/static/v1?label=STATUS&message=CONSTRUCAO&color=GREEN&style=for-the-badge)
+Site de portfólio com projetos de Business Intelligence em Power BI: dashboards de logística, finanças (DRE), vendas, clientes, pessoas e gestão de projetos.
 
-## 🛠️ Tecnologias 
-As seguintes ferramentas foram usadas na construção dos projetos:
+**Acesse:** https://deusdedithjhunior.github.io/DeusdeditJunior-Portfolio-Projetos-BI/
 
-- Power BI;
-- Power Query;  
-- Figma.
+Todos os relatórios usam dados fictícios e podem ser abertos de forma interativa direto no site.
 
-## Autor
-Deusdedit A. Silva Junior
+## Tecnologias
 
-- [Gmail](mailto:deusdedithjhunior@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/deusdedit-junior/)
+- HTML, CSS e JavaScript, sem frameworks e sem build
+- Relatórios em Power BI (DAX, Power Query), incorporados com "Publicar na Web"
+- Formulário de contato com FormSubmit
+- Hospedagem no GitHub Pages
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/deusdedit-junior/
+- YouTube: https://www.youtube.com/@jhuninhuhr
