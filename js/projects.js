@@ -27,6 +27,15 @@ const projects = [
     bars: [45, 70, 55, 90, 65, 80, 50]
   },
   {
+    tag: "Logística",
+    area: "Operações",
+    title: "Gestão de Frota e Entregas",
+    question: "O frete está crescendo, entregando no prazo e dando lucro por rota e por veículo?",
+    embed: "https://app.powerbi.com/view?r=eyJrIjoiMmYzNzljYzUtM2U5Zi00OWVjLTk0NTctZjQ2ZTA0YjE4M2EwIiwidCI6Ijc3ZjkxZjk3LWVlYWMtNGVjMC1iZmY1LWEzMzgyMmIwYTAyOSJ9",
+    thumb: "assets/images/relatorios/gestao-frota-entregas.webp",
+    bars: [60, 50, 75, 65, 85, 70, 90]
+  },
+  {
     tag: "Financeiro",
     area: "Finanças",
     title: "DRE Gerencial e Simulador",
