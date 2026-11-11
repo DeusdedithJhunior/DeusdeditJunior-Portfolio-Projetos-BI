@@ -63,6 +63,15 @@ const projects = [
     bars: [40, 60, 50, 75, 85, 70, 90]
   },
   {
+    tag: "Vendas",
+    area: "Vendas e clientes",
+    title: "Gestão Forças de Vendas",
+    question: "As vendas estão crescendo e com margem? Vendas por mês, canal e grupo de produto, positivação de clientes e desempenho da equipe.",
+    embed: "https://app.powerbi.com/view?r=eyJrIjoiZTE1YjBhOWMtOTAyNi00YmMyLWIxYTctZWE3ZDU4MmQxOGY3IiwidCI6Ijc3ZjkxZjk3LWVlYWMtNGVjMC1iZmY1LWEzMzgyMmIwYTAyOSJ9",
+    thumb: "assets/images/relatorios/gestao-forca-de-vendas.webp",
+    bars: [35, 55, 45, 70, 60, 80, 95]
+  },
+  {
     tag: "Recursos Humanos",
     area: "Pessoas",
     title: "People Analytics",
