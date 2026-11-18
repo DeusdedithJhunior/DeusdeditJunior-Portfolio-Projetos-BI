@@ -45,6 +45,15 @@ const projects = [
     bars: [85, 40, 75, 35, 60, 30, 70]
   },
   {
+    tag: "Financeiro",
+    area: "Finanças",
+    title: "Simulador de Preço e Markup",
+    question: "Os preços praticados cobrem os custos e entregam a margem alvo? Markup por categoria, produtos fora da política, formação de preço e simulação de reajuste.",
+    embed: "https://app.powerbi.com/view?r=eyJrIjoiYzMyNjU3NmUtZDUxOC00NTBiLTg2YjgtNzg1YTY0NTc0ZjExIiwidCI6Ijc3ZjkxZjk3LWVlYWMtNGVjMC1iZmY1LWEzMzgyMmIwYTAyOSJ9",
+    thumb: "assets/images/relatorios/simulador-preco-markup.webp",
+    bars: [70, 55, 80, 45, 65, 50, 75]
+  },
+  {
     tag: "Comercial",
     area: "Vendas e clientes",
     title: "Dashboard Comercial",
